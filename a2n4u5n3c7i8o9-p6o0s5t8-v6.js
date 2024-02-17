@@ -8,5 +8,5 @@ div.innerHTML = `
 `;
 
 $('img').on('error', function (e) {
-    $(this).attr('src', 'https://www.themoviedb.org/assets/2/v4/glyphicons/basic/glyphicons-basic-4-user-grey-d8fe957375e70239d6abdd549fd7568c89281b2179b5f4470e2e12895792dfa5.svg')
+    $(this).attr('src', 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYYpUp_m5Dyj-Olc8wVyAjqSvWsg-jBN8xpTFZ29_b6VI38GayHxYcoYmo-_ImwNPOO02ypkGp4KiNQI63MaUG65AV4cY0riwr-DDa9RTU6Xp22se7MQhLkW_bcsDpitgEnlKxv2-1si_kWVM_l8F-bKeVeUNWzLsOrXuAKhzt-OzVTNUu2PZiqEr4v7s/s1600/%5BGATEOFPANGU%5Dsem-imagem.webp')
 });
